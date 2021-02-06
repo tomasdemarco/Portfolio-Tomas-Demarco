@@ -1,0 +1,24 @@
+.indicator{
+  height: 7px;
+  width: 80px;
+  background-color: blueviolet;
+  z-index: 4;
+  margin-top: 55px;
+}
+@keyframes indicator-animation {
+  100% {
+    transform: translate3d(-355px, 0.1vh, 100px);
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+.indicator {
+  animation: indicator-animation 1s ;
+  animation-delay: .5s;
+  transform: translate3d(-255px, 0.1vh, 100px);
+}
+}
+#home:target
+{
+
+}
+
