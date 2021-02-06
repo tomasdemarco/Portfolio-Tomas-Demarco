@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Tomas-Demarco/static/css/main.f2d834c4.chunk.css",
+    "main.js": "/Portfolio-Tomas-Demarco/static/js/main.1935292e.chunk.js",
+    "main.js.map": "/Portfolio-Tomas-Demarco/static/js/main.1935292e.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Tomas-Demarco/static/js/runtime-main.763dc04e.js",
+    "runtime-main.js.map": "/Portfolio-Tomas-Demarco/static/js/runtime-main.763dc04e.js.map",
+    "static/js/2.88e61cb6.chunk.js": "/Portfolio-Tomas-Demarco/static/js/2.88e61cb6.chunk.js",
+    "static/js/2.88e61cb6.chunk.js.map": "/Portfolio-Tomas-Demarco/static/js/2.88e61cb6.chunk.js.map",
+    "static/js/3.3a534b1a.chunk.js": "/Portfolio-Tomas-Demarco/static/js/3.3a534b1a.chunk.js",
+    "static/js/3.3a534b1a.chunk.js.map": "/Portfolio-Tomas-Demarco/static/js/3.3a534b1a.chunk.js.map",
+    "index.html": "/Portfolio-Tomas-Demarco/index.html",
+    "static/css/main.f2d834c4.chunk.css.map": "/Portfolio-Tomas-Demarco/static/css/main.f2d834c4.chunk.css.map",
+    "static/js/2.88e61cb6.chunk.js.LICENSE.txt": "/Portfolio-Tomas-Demarco/static/js/2.88e61cb6.chunk.js.LICENSE.txt",
+    "static/media/botonArriba.c3a165c3.svg": "/Portfolio-Tomas-Demarco/static/media/botonArriba.c3a165c3.svg",
+    "static/media/facebook.3f7115f9.svg": "/Portfolio-Tomas-Demarco/static/media/facebook.3f7115f9.svg",
+    "static/media/github.e8c48bc7.svg": "/Portfolio-Tomas-Demarco/static/media/github.e8c48bc7.svg",
+    "static/media/instagram.d37acdd3.svg": "/Portfolio-Tomas-Demarco/static/media/instagram.d37acdd3.svg",
+    "static/media/linkedin.7858c3d3.svg": "/Portfolio-Tomas-Demarco/static/media/linkedin.7858c3d3.svg",
+    "static/media/logo.b2668d1c.svg": "/Portfolio-Tomas-Demarco/static/media/logo.b2668d1c.svg",
+    "static/media/logoCSS.a79b97e7.svg": "/Portfolio-Tomas-Demarco/static/media/logoCSS.a79b97e7.svg",
+    "static/media/logoHTML.d0addc05.svg": "/Portfolio-Tomas-Demarco/static/media/logoHTML.d0addc05.svg",
+    "static/media/logoJS.b13c588f.svg": "/Portfolio-Tomas-Demarco/static/media/logoJS.b13c588f.svg",
+    "static/media/logoMongoDB.d89a6eeb.svg": "/Portfolio-Tomas-Demarco/static/media/logoMongoDB.d89a6eeb.svg",
+    "static/media/logoNodeJS.52cbf9a8.svg": "/Portfolio-Tomas-Demarco/static/media/logoNodeJS.52cbf9a8.svg",
+    "static/media/logoReact.9e9c78fa.svg": "/Portfolio-Tomas-Demarco/static/media/logoReact.9e9c78fa.svg",
+    "static/media/tomasPerfil.ab63d49f.jpg": "/Portfolio-Tomas-Demarco/static/media/tomasPerfil.ab63d49f.jpg",
+    "static/media/whatsapp.f179709d.svg": "/Portfolio-Tomas-Demarco/static/media/whatsapp.f179709d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.763dc04e.js",
+    "static/js/2.88e61cb6.chunk.js",
+    "static/css/main.f2d834c4.chunk.css",
+    "static/js/main.1935292e.chunk.js"
+  ]
+}
